@@ -24,7 +24,7 @@ dependencies:
     - lmfit==1.0.3
     - mediapipe>=0.10.0
     - plotly==5.3.1
-    - PySimpleGUI==4.53.0
+    - PySimpleGUI==4.70.1
     - scikit_posthocs==0.6.7
     - scikit-image==0.18.3
     - tqdm==4.62.3
